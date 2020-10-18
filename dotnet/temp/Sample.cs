@@ -5,16 +5,13 @@ namespace Practice
 {
     class Sample 
     {
-
-		private string _userID = string.Empty;
-		
+		private string _userID = string.Empty;;
 		
 		public static void Main()
 		{
 			
 		}	
 		
-
     }
 
 }
